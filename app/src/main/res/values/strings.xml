@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">WGUc196App</string>
+    <string name="action_sharing">Share</string>
+    <string name="enter_title">Edit title</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="delete_all">Delete all data</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="new_term">New term</string>
+    <string name="edit_term">Edit term</string>
+    <string name="nav_username"></string>
+    <string name="nav_description">WGUc196App</string>
+    <string name="nav_term_title">Terms</string>
+    <string name="nav_course_title">Courses</string>
+    <string name="nav_assessments_title">Assessments</string>
+    <string name="nav_mentor_title">Mentors</string>
+    <string name="view_terms_card">Terms</string>
+    <string name="view_terms">View Terms</string>
+    <string name="view_courses_card">Courses</string>
+    <string name="view_assessments_card">Assessments</string>
+    <string name="nav_open">Open navigation</string>
+    <string name="nav_close">Close navigation</string>
+    <string name="main_status_courses">Courses</string>
+    <string name="main_status_terms">Terms</string>
+    <string name="main_status_assessment">Assessments</string>
+    <string name="title_activity_terms">Terms</string>
+    <string name="view_mentors_card">Mentors</string>
+    <string name="nav_home_title">Home</string>
+    <string name="term_details">Term Details</string>
+    <string name="term_edit_title_hint">Edit Title</string>
+    <string name="course_edit_title_hint">Edit Title</string>
+    <string name="term_edit_start_hint">Start Date (MM/DD/YYYY)</string>
+    <string name="course_edit_start_hint">Start Date (MM/DD/YYYY)</string>
+    <string name="term_edit_btn_start">Select Date</string>
+    <string name="term_edit_end_hint">End Date (MM/DD/YYY)</string>
+    <string name="term_edit_btn_end">Select Date</string>
+    <string name="term_edit_btn_save">Save</string>
+    <string name="term_detail_start_label">Start Date</string>
+    <string name="term_detail_end_label">End Date</string>
+    <string name="term_detail_courses_label">Courses</string>
+    <string name="course_details">Course Details</string>
+    <string name="course_edit_btn_start">Select Date</string>
+    <string name="course_edit_end_hint">Anticipated End Date (MM/DD/YYYY)</string>
+    <string name="course_edit_btn_end">Select Date</string>
+    <string name="course_edit_status_dropdown">Course Status</string>
+    <string name="new_course">New Course</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="course_detail_start_label">Start Date</string>
+    <string name="course_detail_end_label">End Date</string>
+    <string name="course_detail_assessments_label">Assessments</string>
+    <string name="course_detail_mentors_label">Mentors</string>
+    <string name="course_detail_status_label">Status</string>
+    <string name="assessment_details">Assessment Details</string>
+    <string name="ass_edit_title_hint">Edit Title</string>
+    <string name="ass_edit_date_hint">Assessment Date (MM/DD/YYY)</string>
+    <string name="ass_edit_btn_start">Select Date</string>
+    <string name="ass_edit_status_dropdown">Type of Assessment</string>
+    <string name="ass_edit_status_label">Assessment Type</string>
+    <string name="course_edit_status_label">Course Status</string>
+    <string name="ass_detail_date_label">Date</string>
+    <string name="ass_detail_type_label">Type</string>
+    <string name="new_assessment">New Assessment</string>
+    <string name="edit_assessment">Edit Assessment</string>
+    <string name="mentor_edit_name_hint">Mentor Name</string>
+    <string name="mentor_edit_email_hint">Email</string>
+    <string name="mentor_edit_phone">Phone</string>
+    <string name="mentor_detail_email_label">Email</string>
+    <string name="mentor_detail_phone_label">Phone</string>
+    <string name="mentor_details">Mentor Details</string>
+    <string name="new_mentor">New Mentor</string>
+    <string name="edit_mentor">Edit Mentor</string>
+    <string name="course_detail_note_label">Note</string>
+    <string name="channel_description">notification channel description</string>
+    <string name="channel_name">notification channel</string>
+
+    <string-array name="mentors_array">
+        <item>Select Mentor</item>
+        <item>John Mentor\n P: 444.555.6666\n E: mentor@wgu.edu</item>
+        <item>Steve Mentor\n P: 444.555.6661\n E: mentor1@wgu.edu</item>
+        <item>Joan Mentor\n P: 444.555.6662\n E: mentor2@wgu.edu</item>
+    </string-array>
+
+    <string-array name="status_array">
+        <item>Pending</item>
+        <item>Complete</item>
+        <item>Future</item>
+    </string-array>
+
+    <string-array name="assessment_array">
+        <item>Project</item>
+        <item>Pre Assessment</item>
+        <item>Final Assessment</item>
+    </string-array>
+
+
+</resources>

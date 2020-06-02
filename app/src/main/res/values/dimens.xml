@@ -1,0 +1,27 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_text_size">18sp</dimen>
+    <dimen name="list_fab_margin">8dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="navigation_header_height">200dp</dimen>
+    <dimen name="navigation_padding">15dp</dimen>
+    <dimen name="main_cardview_text_size">25sp</dimen>
+    <dimen name="main_cardview_minheight">100dp</dimen>
+    <dimen name="main_cardview_layout_margin_startend">5dp</dimen>
+    <dimen name="main_cardview_corner_rad">10dp</dimen>
+    <dimen name="main_cardview_text_padding">20dp</dimen>
+    <dimen name="main_status_label">20sp</dimen>
+    <dimen name="main_status_padding">15dp</dimen>
+    <dimen name="main_status_space">40dp</dimen>
+    <dimen name="main_status_label_width">150dp</dimen>
+    <dimen name="main_status_circle">8dp</dimen>
+    <dimen name="main_status_margin">20dp</dimen>
+    <dimen name="main_status_text_size">34sp</dimen>
+    <dimen name="edit_margin">10dp</dimen>
+    <dimen name="term_edit_btn_width">125dp</dimen>
+    <dimen name="edit_icon_size">35dp</dimen>
+    <dimen name="detail_text_size">15dp</dimen>
+    <dimen name="detail_label_width">180dp</dimen>
+    <dimen name="detail_label_width_mentor">80dp</dimen>
+</resources>
